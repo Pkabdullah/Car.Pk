@@ -44,7 +44,7 @@ const Footer = () => {
                 <p className="text-gray-400">@2024 Car.Pk All Rights Reserved</p>
                 <div className="flex-1 flex sm:justify-end justify-center max-sm:mt-4 gap-10">
                     <Link href={"/"} className="text-gray-400">Privacy Policy</Link>
-                    <Link href={"/"} className="text-gray-400">Terms of Use</Link>
+                    <Link href={"/"} className="text-gray-400">M Abdullah</Link>
 
                 </div>
 
